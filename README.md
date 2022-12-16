@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<h3 align="center">A passionate frontend developer from India</h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
